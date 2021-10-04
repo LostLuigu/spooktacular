@@ -20,6 +20,6 @@
   "special": {
       "name": " erase",
       "description": "able to manipulate if you were born and can destroy a source of your power or creator such as a life source"
-      "effect": "Can directly interact with and destroy the target's source"
+      "effect" "Can directly interact with and destroy the target's source"
   }
 }
