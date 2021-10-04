@@ -1,0 +1,25 @@
+{
+  "name": "Anos Voldigoad ",
+  "stats": {
+    "hp": 99999999,
+    "ac": 666,
+    "speed": 666
+  },
+  "abilities": {
+    "strength": 666,
+    "dexterity": 99999,
+    "constitution": 99999,
+    "intelligence": 999999,
+    "wisdom": 99999,
+    "charisma": 666
+  },
+  "attack": {
+    "name": "heart beat",
+    "damage": 1000
+  },
+  "special": {
+      "name": " erase",
+      "description": "able to manipulate if you were born and can destroy a source of your power or creator such as a life source"
+      "effect": "Can directly interact with and destroy the target's source"
+  }
+}
